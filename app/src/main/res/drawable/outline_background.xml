@@ -1,0 +1,9 @@
+<!-- outline_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/transparent" />
+    <stroke
+        android:color="@color/black"
+        android:width="0.5dp" /> <!-- Adjust outline width as needed -->
+    <corners android:radius="4dp" /> <!-- Adjust corner radius as needed -->
+</shape>

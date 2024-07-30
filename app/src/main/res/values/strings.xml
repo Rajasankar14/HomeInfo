@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyHome Info</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_new_purchase">Add New Purchase</string>
+    <string name="view_purchase">View Purchase</string>
+    <string name="menu_new_purchase_history">Purchase History</string>
+
+
+    <string name="product_name_hint_title">Product Name</string>
+    <string name="product_Category_title">Category</string>
+    <string name="product_purchase_title">Purchase Date</string>
+    <string name="product_name_expiry_title">Expiry Date</string>
+    <string name="product_person_title">Purchased Person</string>
+    <string name="product_quantity_title">Purchased Quantity</string>
+    <string name="add_product_text">Add Product</string>
+    <string name="title_activity_home_screen">HomeScreen</string>
+    <string name="title_activity_app_nav_host">AppNavHost</string>
+    <string name="title_activity_new_purchase_actvity">NewPurchaseActvity</string>
+</resources>
